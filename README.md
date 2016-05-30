@@ -7,9 +7,9 @@ Jakiro is a minimal model for ci/cd and deploying containers on cluster. Just fo
 3. Discovery with etcd and haproxy
 
 # Tools
-1.Golang
-2.Docker
-3.Haproxy
+1. Golang
+2. Docker
+3. Haproxy
 
 # Goal
 Just for fun.
