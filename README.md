@@ -1,4 +1,4 @@
-# jakiro
+# Jakiro
 Jakiro is a minimal model for ci/cd and deploying containers on cluster. Just for fun, enjoy it .
 
 # Plan
@@ -6,7 +6,7 @@ Jakiro is a minimal model for ci/cd and deploying containers on cluster. Just fo
 2. Deploy image in cluster and visit different unit across host
 3. Discovery with etcd and haproxy
 
-# tools
+# Tools
 1.Golang
 2.Docker
 3.Haproxy
