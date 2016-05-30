@@ -15,7 +15,6 @@ Jakiro is a minimal model for ci/cd and deploying containers on cluster. Just fo
 Just for fun.
 
 
-/*code is far away from bug with the animal protecting
     *  ┏┓　　　┏┓
     *┏┛┻━━━┛┻┓
     *┃　　　　　　　┃ 　
